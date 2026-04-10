@@ -1,0 +1,15 @@
+2026-04-08 00:58:53,170 - INFO - Authorized request received: sepal_length=5.9 sepal_width=3.0 petal_length=5.1 petal_width=1.8
+2026-04-08 00:58:53,195 - INFO - Prediction result: 2
+2026-04-08 00:59:03,668 - WARNING - Unauthorized access attempt
+2026-04-10 22:08:48,800 - INFO - Home endpoint accessed
+2026-04-10 22:13:13,966 - INFO - Authorized request received: sepal_length=5.1 sepal_width=3.5 petal_length=1.4 petal_width=0.2
+2026-04-10 22:13:14,004 - INFO - Prediction result: 0
+2026-04-10 22:17:40,610 - WARNING - Unauthorized access attempt
+2026-04-10 22:18:04,543 - INFO - Authorized request received: sepal_length=5.1 sepal_width=3.5 petal_length=1.4 petal_width=0.2
+2026-04-10 22:18:04,563 - INFO - Prediction result: 0
+2026-04-10 22:18:17,761 - WARNING - Unauthorized access attempt
+2026-04-10 22:19:37,241 - WARNING - Unauthorized access attempt
+2026-04-10 22:20:27,734 - INFO - Authorized request received: sepal_length=5.1 sepal_width=3.5 petal_length=1.4 petal_width=0.2
+2026-04-10 22:20:27,759 - INFO - Prediction result: 0
+2026-04-10 22:22:16,347 - INFO - Authorized request received: sepal_length=5.1 sepal_width=3.5 petal_length=1.4 petal_width=0.2
+2026-04-10 22:22:16,372 - INFO - Prediction result: 0
